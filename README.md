@@ -4,7 +4,7 @@
 
 ### Importing Data
 
-Data must be formatted and named as such:<br />
+Data must be formatted and named as such:
 
 data/ <br />
 ├── WIDER_train/ <br />
