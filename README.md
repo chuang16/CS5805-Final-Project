@@ -6,10 +6,10 @@
 
 Download data here: http://shuoyang1213.me/WIDERFACE/
 
-WIDER Face Training Images <br />
-WIDER Face Training Images <br />
-WIDER Face Training Images <br />
-Face annotations
+&emsp;WIDER Face Training Images <br />
+&emsp;WIDER Face Training Images <br />
+&emsp;WIDER Face Training Images <br />
+&emsp;Face annotations
 
 Data must be formatted and named as such, with 'data/' folder in root dirrectory:
 
