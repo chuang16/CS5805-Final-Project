@@ -1,4 +1,4 @@
-# CS5805-Final-Project
+# CS5805 Final Project
 
 (brief project description)
 
