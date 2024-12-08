@@ -4,6 +4,8 @@
 
 ### Importing Data
 
+Download data here: http://shuoyang1213.me/WIDERFACE/
+
 Data must be formatted and named as such:
 
 data/ <br />
