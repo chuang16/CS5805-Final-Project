@@ -3,20 +3,20 @@
 ## Instructions
 
 ### Data
-data/
-├── WIDER_train/
-    ├── 0--Parade/
-    ├── 1--Handshaking/
-    ├── 2--Demonstration/
-    ├── ...
-├── WIDER_val/
-    ├── 0--Parade/
-    ├── 1--Handshaking/
-    ├── 2--Demonstration/
-    ├── ...
-├── WIDER_test/
-    ├── 0--Parade/
-    ├── 1--Handshaking/
-    ├── 2--Demonstration/
-    ├── ...
-├── wider_face_split/
+data/ <br />
+├── WIDER_train/ <br />
+    ├── 0--Parade/ <br />
+    ├── 1--Handshaking/ <br />
+    ├── 2--Demonstration/ <br />
+    ├── ... <br />
+├── WIDER_val/ <br />
+    ├── 0--Parade/ <br />
+    ├── 1--Handshaking/ <br />
+    ├── 2--Demonstration/ <br />
+    ├── ... <br />
+├── WIDER_test/ <br />
+    ├── 0--Parade/ <br />
+    ├── 1--Handshaking/ <br />
+    ├── 2--Demonstration/ <br />
+    ├── ... <br />
+├── wider_face_split/ <br />
