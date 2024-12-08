@@ -37,6 +37,6 @@ Inside 'data.yaml', change directory of 'path' to your own ABSOLUTE path (will n
 
 ### 3) Run 'CS5805 Final Project.ipynb'
 
-Code will create 'runs' folder where results can be viewed.
+Code will create 'runs' folder where results can be viewed. It is recommended to delete this folder each time the project is ran to save storage space.
 
 It will also create a 'pixelated-images' folder where images are applied with face pixalization.
