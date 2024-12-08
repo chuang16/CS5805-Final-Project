@@ -1,6 +1,6 @@
 # CS5805-Final-Project
 
-## Instructions
+## Instructions (PLEASE READ)
 
 ### 1) Importing Data
 
@@ -30,3 +30,7 @@ data/ <br />
 &emsp;├── 2--Demonstration/ <br />
 &emsp;├── ... <br />
 ├── wider_face_split/ <br />
+
+### 2) Modify 'data.yaml' file
+
+Inside 'data.yaml', change directory of 'path' to your own ABSOLUTE path (will not work otherwise).
