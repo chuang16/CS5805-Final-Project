@@ -31,6 +31,10 @@ data/ <br />
 &emsp;├── ... <br />
 ├── wider_face_split/ <br />
 
-### 2) Modify 'data.yaml' file
+### 2) Modify 'data.yaml' File
 
 Inside 'data.yaml', change directory of 'path' to your own ABSOLUTE path (will not work otherwise).
+
+### 3) Run .ipynb File
+
+
