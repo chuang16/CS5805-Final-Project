@@ -1,5 +1,7 @@
 # CS5805 Final Project
 
+### Corey Huang, Allison Deaton, Ken Lin, Rebecca Yeung
+
 (brief project description)
 
 ## Instructions (PLEASE READ)
