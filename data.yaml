@@ -1,0 +1,9 @@
+# CHANGE TO YOUR OWN PATH! (HAS TO BE ABSOLUTE PATH TO WORK)
+path: C:/Users/huang/Documents/Virginia Tech/Classes/Fall 2024/CS 5805 - Machine Learning/Final Project
+
+train: data/sampled_train
+val: data/sampled_val
+test: data/sampled_test
+
+nc: 1
+names: ['face']
