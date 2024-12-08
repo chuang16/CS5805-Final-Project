@@ -2,7 +2,7 @@
 
 ## Instructions
 
-## Data
+### Data
 data/
 ├── WIDER_train/
     ├── 0--Parade/
