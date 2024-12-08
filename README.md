@@ -3,7 +3,9 @@
 ## Instructions
 
 ### Importing Data
+
 Data must be formatted and named as such:<br />
+
 data/ <br />
 ├── WIDER_train/ <br />
 &emsp;├── 0--Parade/ <br />
