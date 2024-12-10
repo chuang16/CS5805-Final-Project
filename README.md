@@ -2,7 +2,11 @@
 
 #### Corey Huang, Allison Deaton, Ken Lin, Rebecca Yeung
 
-(brief project description)
+Virginia Tech <br />
+CS 5805: Machine Learning <br />
+Fall 2024
+
+YOLO implementation for face pixelation
 
 ## Instructions (PLEASE READ)
 
