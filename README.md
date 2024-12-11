@@ -47,4 +47,6 @@ Inside 'data.yaml', change directory of 'path' to your own ABSOLUTE path (will n
 
 Code will create 'runs' folder where results can be viewed. It is recommended to delete this folder before each time you run the project to save storage space.
 
+Data results can be seen in the 'results.csv' file in 'runs/detect/train2' and test images with bounding boxes applied can be found in 'runs/detect/train3'.
+
 It will also create a 'pixelated-images' folder where images are applied with face pixalization.
