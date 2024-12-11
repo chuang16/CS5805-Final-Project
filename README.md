@@ -15,10 +15,10 @@ YOLO implementation for face pixelation
 Download data here: http://shuoyang1213.me/WIDERFACE/
 
 What to download: <br />
-&emsp;WIDER Face Training Images <br />
-&emsp;WIDER Face Validation Images <br />
-&emsp;WIDER Face Testing Images <br />
-&emsp;Face annotations
+&emsp; - WIDER Face Training Images <br />
+&emsp; - WIDER Face Validation Images <br />
+&emsp; - WIDER Face Testing Images <br />
+&emsp; - Face annotations
 
 Data must be formatted and named as such, with 'data' folder in root directory:
 
