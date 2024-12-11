@@ -42,7 +42,7 @@ data/ <br />
 
 ### 2) Modify 'data.yaml'
 
-Inside 'data.yaml', change directory of 'path' to your own ABSOLUTE path (will not work otherwise).
+Inside 'data.yaml', change directory of 'path' to your own ABSOLUTE path that leads to where 'data.yaml' is located (will not work otherwise).
 
 ### 3) Run 'CS5805 Final Project.ipynb'
 
