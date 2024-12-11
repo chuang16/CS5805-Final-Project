@@ -23,22 +23,22 @@ What to download: <br />
 Data must be formatted and named as such, with 'data' folder in root directory:
 
 data/ <br />
-&emsp;├── WIDER_train/ <br />
+├── WIDER_train/ <br />
 &emsp;&emsp;├── 0--Parade/ <br />
 &emsp;&emsp;├── 1--Handshaking/ <br />
 &emsp;&emsp;├── 2--Demonstration/ <br />
 &emsp;&emsp;├── ... <br />
-&emsp;├── WIDER_val/ <br />
+├── WIDER_val/ <br />
 &emsp;&emsp;├── 0--Parade/ <br />
 &emsp;&emsp;├── 1--Handshaking/ <br />
 &emsp;&emsp;├── 2--Demonstration/ <br />
 &emsp;&emsp;├── ... <br />
-&emsp;├── WIDER_test/ <br />
+├── WIDER_test/ <br />
 &emsp;&emsp;├── 0--Parade/ <br />
 &emsp;&emsp;├── 1--Handshaking/ <br />
 &emsp;&emsp;├── 2--Demonstration/ <br />
 &emsp;&emsp;├── ... <br />
-&emsp;├── wider_face_split/ <br />
+├── wider_face_split/ <br />
 
 ### 2) Modify 'data.yaml'
 
